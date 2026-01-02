@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     float horizontal;
     float vertical;
+    float change;
 
 
     #region PLAYER_CONTROLS
